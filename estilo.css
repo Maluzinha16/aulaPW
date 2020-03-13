@@ -18,7 +18,11 @@ body {
 }
 
 .bg-title {
-   /* background-image: linear-gradient(to bottom right, #a29bfe, #55efc4);*/
-   background: url('../aulaPW/img/cabecalho.png') center center no-repeat;
-   background-size: cover;
+    /* background-image: linear-gradient(to bottom right, #a29bfe, #55efc4);*/
+    background: url('../aulaPW/img/cabecalho.png') center center no-repeat;
+    background-size: cover;
+}
+
+.bg-nav {
+    background-image: linear-gradient(to bottom right, #f5eac5, #f5eac5);
 }
